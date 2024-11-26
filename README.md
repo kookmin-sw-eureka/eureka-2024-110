@@ -54,6 +54,6 @@ Todo|셀9|셀10|셀11|현장실습 프로그램, 방학 중 특강
 
 ## 활동사진
 
-
-<img width="300px" height="150px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">|<img width="300px" height="150px" src="https://github.com/user-attachments/assets/75ed08b4-ac6a-4ed2-8a40-60eb76ba8b1b">
-<img width="150px" height="300px" src="https://github.com/user-attachments/assets/0ced5a79-c30a-4b43-9022-4ac873de1f50">|gfhgfh
+<img width="300px" height="150px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">
+<img width="300px" height="150px" src="https://github.com/user-attachments/assets/75ed08b4-ac6a-4ed2-8a40-60eb76ba8b1b">
+<img width="150px" height="300px" src="https://github.com/user-attachments/assets/0ced5a79-c30a-4b43-9022-4ac873de1f50">
