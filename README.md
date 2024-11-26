@@ -1,38 +1,14 @@
-# Welcome to GitHub
+# 유레카 프로젝트 10조
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+```배움은 Hard하게, 인생은 Soft하게!```
 
-가나다라마바사
+### 류현석
+### 박상준
+### 이재훈
+### 김예지
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+### Archive
+<img width="400px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">
+<img width="400px" src="https://github.com/user-attachments/assets/75ed08b4-ac6a-4ed2-8a40-60eb76ba8b1b">
+<img width="400px" src="https://github.com/user-attachments/assets/0ced5a79-c30a-4b43-9022-4ac873de1f50">
