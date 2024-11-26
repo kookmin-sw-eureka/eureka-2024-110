@@ -2,12 +2,17 @@
 
 > **배움은 Hard하게, 인생은 Soft하게!**
 
-류현석|박상준|이재훈|김예지
-:---:|:---:|:---:|:---:
-이미지|이미지|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">
-목표|목표|목표|즐겁게 살자! 그리고 많이 배우자!
-목표|목표|목표|VR, AI, Data Engineer
-셀9|셀10|셀11|현장실습 프로그램, 방학 중 특강
+
+### #1. 팀원 소개
+Name|류현석|박상준|이재훈|김예지
+:---:|:---:|:---:|:---:|:---:
+Profile|이미지|이미지|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">
+Goal|목표|목표|목표|즐겁게 살자! 그리고 많이 배우자!
+Career|목표|목표|목표|VR, AI, Data Engineer
+Search|셀9|셀10|셀11|현장실습 프로그램, 방학 중 특강
+Todo|셀9|셀10|셀11|현장실습 프로그램, 방학 중 특강
+
+
 
 # 제공받을 수 있는 기회
 ### 현장 실습
@@ -46,7 +51,8 @@
 
 ### 팀 ~~
 
-# 활동사진
-<img width="400px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">
-<img width="400px" src="https://github.com/user-attachments/assets/75ed08b4-ac6a-4ed2-8a40-60eb76ba8b1b">
-<img width="400px" src="https://github.com/user-attachments/assets/0ced5a79-c30a-4b43-9022-4ac873de1f50">
+## 활동사진
+
+<img width="300px" height="150px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">|<img width="300px" height="150px" src="https://github.com/user-attachments/assets/75ed08b4-ac6a-4ed2-8a40-60eb76ba8b1b">
+:---:|:---:
+<img width="150px" height="300px" src="https://github.com/user-attachments/assets/0ced5a79-c30a-4b43-9022-4ac873de1f50">|
