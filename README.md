@@ -4,6 +4,7 @@
 
 
 ### #1. 팀원 소개
+
 Name|류현석|박상준|이재훈|김예지
 :---:|:---:|:---:|:---:|:---:
 Profile|이미지|이미지|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">
