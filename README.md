@@ -17,7 +17,15 @@
 #### Q) 프로젝트 진행중 궁금했던 부분에 대한 질문
 #### A)
 
-
+# 유레카 프로젝트에서 느낀점
+### 박상준
+#### ~~
+### 김예지
+#### ~~
+### 이재훈
+#### ~~
+### 류현석
+#### ~~
 
 ### Archive
 <img width="400px" src="https://github.com/user-attachments/assets/ee6fe8d2-94ad-40ff-8270-fad2b09f873c">
