@@ -9,10 +9,10 @@
 |Name|류현석|박상준|이재훈|김예지|
 |:---:|:---:|:---:|:---:|:---:|
 |Major|소프트웨어학과|소프트웨어학과|소프트웨어학과|소프트웨어학과|
-|Profile|이미지|이미지|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
-|Goal|목표|목표|목표|즐겁게 살자! 그리고 많이 배우자!|
+|Profile|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
+|Goal|목표|조급해지지말고 여유롭게 살자!|목표|즐겁게 살자! 그리고 많이 배우자!|
 |Why|목표|목표|목표|저에게 성장과 재미는<br>인생을 살아가게 하는 원동력입니다.|
-|Career|목표|목표|목표|VR, AI, Data Engineer|
+|Career||목표|목표|VR, AI, Data Engineer|
 |Search|셀9|셀10|셀11|현장실습 프로그램, 방학 중 특강|
 |Todo|셀9|셀10|셀11|방학 중 취업 특강|
 
