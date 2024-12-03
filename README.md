@@ -4,6 +4,9 @@
 
 소프트웨어에 대해 열심히 공부한 내용을 바탕으로 인생을 편하게 살아가자는 의미입니다!
 
+
+<hr>
+
 [1. 팀원소개](#팀원-소개)
 
 
@@ -18,7 +21,7 @@
 |Career|Data Engineer, AI|InfoSec, Back-End|목표|VR, AI, Data Engineer|
 |Search|경험과 스펙을<br>쌓을 수 있는 방법|학교를 다니며<br>내가 할 수 있는 것|셀11|현장실습 프로그램, 방학 중 특강|
 |Todo|코딩 역량 기르기|방학동안<br>전공 역량 키우기|셀11|방학 중 취업 특강|
-|-|-|-|-|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">|
+|-|-|-|-|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">|
 <br>
 
 ### #2. 활동 결과
