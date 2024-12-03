@@ -21,12 +21,7 @@
 |Career|Data Engineer, AI|InfoSec, Back-End|목표|VR, AI, Data Engineer|
 |Search|경험과 스펙을<br>쌓을 수 있는 방법|학교를 다니며<br>내가 할 수 있는 것|셀11|현장실습 프로그램, 방학 중 특강|
 |Todo|코딩 역량 기르기|방학동안<br>전공 역량 키우기|셀11|방학 중 취업 특강|
-|aaa|bbb|ccc|ddd
-|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-<img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white">
-<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">|
+|aaa|bbb|ccc|ddd|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=Meta&logoColor=white"> <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">|
 
 <br>
 
