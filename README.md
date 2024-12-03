@@ -9,7 +9,7 @@
 |Name|류현석|박상준|이재훈|김예지|
 |:---:|:---:|:---:|:---:|:---:|
 |Major|소프트웨어학과|소프트웨어학과|소프트웨어학과|소프트웨어학과|
-|Profile|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
+|Profile|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
 |Goal|목표|조급해지지말고<br>여유롭게 살자!|목표|즐겁게 살자! 그리고 많이 배우자!|
 |Why|목표|행복은 여유를 가질 때 <br>나온다 생각합니다.|목표|저에게 성장과 재미는<br>인생을 살아가게 하는 원동력입니다.|
 |Career|목표|InfoSec, Back-End|목표|VR, AI, Data Engineer|
