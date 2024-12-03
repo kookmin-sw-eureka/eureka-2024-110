@@ -2,14 +2,15 @@
 
 > **배움은 Hard하게, 인생은 Soft하게!**
 
-소프트웨어에 대해 열심히 공부한 내용을 바탕으로 인생을 편하게 살아가자는 의미입니다!
+소프트웨어에 대해 열심히 공부한 내용을 바탕으로 인생을 편하게 살아가자는 의미입니다!![KakaoTalk_20241127_121148299 - 복사본 (2)](https://github.com/user-attachments/assets/7cd711ea-78e8-4805-a924-126fe7067c34)
+
 
 ### #1. 팀원 소개
 
 |Name|류현석|박상준|이재훈|김예지|
 |:---:|:---:|:---:|:---:|:---:|
 |Major|소프트웨어학과|소프트웨어학과|소프트웨어학과|소프트웨어학과|
-|Profile|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
+|Profile|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/7cd711ea-78e8-4805-a924-126fe7067c34">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|이미지|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
 |Goal|목표|조급해지지말고<br>여유롭게 살자!|목표|즐겁게 살자! 그리고 많이 배우자!|
 |Why|목표|행복은 여유를 가질 때 <br>나온다 생각합니다.|목표|저에게 성장과 재미는<br>인생을 살아가게 하는 원동력입니다.|
 |Career|목표|InfoSec, Back-End|목표|VR, AI, Data Engineer|
