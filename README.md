@@ -41,8 +41,6 @@ ___
 
 다양한 관심사를 가진 팀원이 모여 공통 관심사를 찾는 것이 어려웠으나 전부 **AI**에 관심이 있었습니다!
 
-<br>
-
 [학과 서비스]
 - GREAT 프로그램과 같은 해외 연수 프로그램
 - 현장실습
@@ -55,11 +53,12 @@ ___
 
 ✅ 티켓 활동 90% 이상 완료
 
-<img width="400px" src="https://github.com/user-attachments/assets/867b533e-cbad-40ea-8f0c-8ad214dc792b">
+<img width="400px" src="https://github.com/user-attachments/assets/36b2fe3b-35ef-4571-9e6b-3f6df6e022f3">
 
 <br>
 
 ___
 
 ### 유레카 프로젝트로 얻은 것 🏆
-~~5분정도의 영상 기획 중~~
+
+[![유레카프로젝트 1분반 1조 - 최종](https://github.com/user-attachments/assets/42e910b9-dc0a-4d4a-923a-e3398363fa03)](https://youtu.be/5YgoogcUDdc)
