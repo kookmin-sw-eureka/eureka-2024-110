@@ -24,7 +24,7 @@ ___
 |Major|소프트웨어학과|소프트웨어학과|소프트웨어학과|소프트웨어학과|
 |Profile|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/7cd711ea-78e8-4805-a924-126fe7067c34">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/0d48fc85-ff96-40e5-9596-697f05f658c8">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/35a06f4b-e183-4159-a2d8-22d811afb0e4">|<img width="150px" height="200px" src="https://github.com/user-attachments/assets/73ce1083-9743-43b5-b3b9-113f95fb5ba7">|
 |Goal|하고싶은 일을 열심히 하자!|조급해지지말고<br>여유롭게 살자!|재미있게 살자!|즐겁게 살자!<br>그리고 많이 배우자!|
-|Why|원하는 일을 제대로 할 때<br>성공과 행복을<br>모두 가질 수 있습니다.|행복은 여유를 가질 때 <br>나온다 생각합니다.|목표|저에게 성장과 재미는<br>인생을 살아가게 하는<br>원동력입니다.|
+|Why|원하는 일을 제대로 할 때<br>성공과 행복을<br>모두 가질 수 있습니다.|행복은 여유를 가질 때 <br>나온다 생각합니다.|한번사는 인생<br> 재미있게 살고싶습니다.|저에게 성장과 재미는<br>인생을 살아가게 하는<br>원동력입니다.|
 |Career|Data Engineer, AI|InfoSec, Back-End|AI, computer vision|VR, AI, Data Engineer|
 |Search|경험과 스펙을<br>쌓을 수 있는 방법|학교를 다니며<br>내가 할 수 있는 것|현장실습 프로그램|현장실습 프로그램, 방학 중 특강|
 |Todo|코딩 역량 기르기|방학동안<br>전공 역량 키우기|학부연구생|방학 중 취업 특강|
