@@ -51,7 +51,7 @@ ___
 
 ✅ 정통처 탐방, 학과 서비스 및 서버실 탐방, 교수님 사인, 보직 교수님 사인, 3,4학년 교수님 사인, 대학원생 사인 등 모든 체험 활동 완료
 
-✅ 티켓 활동 90% 이상 완료
+✅ 티켓 활동 97% 이상 완료
 
 <img width="400px" src="https://github.com/user-attachments/assets/36b2fe3b-35ef-4571-9e6b-3f6df6e022f3">
 
@@ -61,4 +61,6 @@ ___
 
 ### 유레카 프로젝트로 얻은 것 🏆
 
-[![유레카프로젝트 1분반 1조 - 최종](https://github.com/user-attachments/assets/42e910b9-dc0a-4d4a-923a-e3398363fa03)](https://youtu.be/5YgoogcUDdc)
+> 👇 이미지를 클릭해 <img width="50px" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 영상을 시청하세요!
+
+[<img width="200px" src="https://github.com/user-attachments/assets/42e910b9-dc0a-4d4a-923a-e3398363fa03"/>](https://youtu.be/5YgoogcUDdc)
