@@ -53,10 +53,7 @@ ___
 
 ✅ 티켓 활동 97% 이상 완료 & 총 티켓 39장!
 
-<img width="400px" src="https://github.com/user-attachments/assets/d7fec5f9-f4e8-4d95-8ad2-7d22a4912d55">
-
-
-
+<img width="350px" src="https://github.com/user-attachments/assets/480de835-bc0b-4e99-8a0b-b68ee74ddeb4">
 
 <br>
 
