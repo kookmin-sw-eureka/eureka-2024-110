@@ -51,9 +51,12 @@ ___
 
 ✅ 정통처 탐방, 학과 서비스 및 서버실 탐방, 교수님 사인, 보직 교수님 사인, 3,4학년 교수님 사인, 대학원생 사인 등 모든 체험 활동 완료
 
-✅ 티켓 활동 97% 이상 완료
+✅ 티켓 활동 97% 이상 완료 & 총 티켓 39장!
 
-<img width="400px" src="https://github.com/user-attachments/assets/36b2fe3b-35ef-4571-9e6b-3f6df6e022f3">
+<img width="400px" src="https://github.com/user-attachments/assets/d7fec5f9-f4e8-4d95-8ad2-7d22a4912d55">
+
+
+
 
 <br>
 
